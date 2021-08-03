@@ -1,0 +1,5 @@
+com\movie\MovieProject\MovieController.class
+com\movie\MovieProject\DbFiller.class
+com\movie\MovieProject\Repository\MovieRepository.class
+com\movie\MovieProject\Model\Movie.class
+com\movie\MovieProject\MovieProjectApplication.class

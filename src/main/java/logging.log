@@ -1,0 +1,10 @@
+2021-07-27 16:28:26 INFO  MovieProjectApplication:17 - Application Started
+2021-07-27 16:28:33 INFO  MovieProjectApplication:50 - Database Instantiated
+2021-07-27 16:29:01 INFO  MovieProjectApplication:36 - User Requested for movie :Godzilla2
+2021-07-27 16:29:01 INFO  MovieProjectApplication:40 - Movie Found : Godzilla2
+2021-07-27 16:29:04 INFO  MovieProjectApplication:36 - User Requested for movie :Godzilla
+2021-07-27 16:29:04 INFO  MovieProjectApplication:45 - Movie Not Found : Godzilla
+2021-08-03 13:09:30 INFO  MovieProjectApplication:17 - Application Started
+2021-08-03 13:09:37 INFO  MovieProjectApplication:52 - Database Instantiated
+2021-08-03 13:10:34 INFO  MovieProjectApplication:38 - User Requested for movie :Godzilla2
+2021-08-03 13:10:34 INFO  MovieProjectApplication:42 - Movie Found : Godzilla2
