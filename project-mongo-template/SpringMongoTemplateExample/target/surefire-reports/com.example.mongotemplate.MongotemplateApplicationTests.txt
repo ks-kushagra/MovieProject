@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.example.mongotemplate.MongotemplateApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.486 s - in com.example.mongotemplate.MongotemplateApplicationTests

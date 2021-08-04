@@ -1,0 +1,3 @@
+com\example\mongotemplate\MongotemplateApplication.class
+com\example\mongotemplate\Model\Book.class
+com\example\mongotemplate\Controller\BookController.class
